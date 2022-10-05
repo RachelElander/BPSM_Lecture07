@@ -3,3 +3,7 @@ mypasswordsfile
 *.c
 *.log
 **/fq.gz
+# This line in the .gitignore allows the file "bowtie2.log" to evade the ignore list: order is important!
+# If you want to include a "!" character, then you HAVE to use an editor to do it
+!bowtie2.log
+
