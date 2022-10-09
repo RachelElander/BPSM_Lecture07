@@ -1,0 +1,1 @@
+Sun  9 Oct 16:05:46 BST 2022 	 33 myawkwardscript.awk
